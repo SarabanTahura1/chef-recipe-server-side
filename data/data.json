@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "picture": "https://th.bing.com/th/id/R.b0fa50538be69300fe833994c2833b44?rik=j68IDAxAINHicg&riu=http%3a%2f%2f2.bp.blogspot.com%2f-r5gjTi1s77s%2fUgRYh4juToI%2fAAAAAAAABaM%2fhHBLZnubrXk%2fs1600%2fBobby%2bFlay%2b2.jpg&ehk=GHI2cYfi7fOVwkOVnPLBKoGHaAxHcXCM%2fBnycRsThAI%3d&risl=&pid=ImgRaw&r=0",
+    "name": "Bobby Flay",
+    "experience": 25,
+    "num_recipes": 12,
+    "likes": 2000,
+    "bio": "Chef Bobby Flay is a renowned American chef and restaurateur with over 25 years of experience in the culinary industry. He has appeared on numerous cooking shows and has written several cookbooks. Chef Flay is known for his bold flavors and love of southwestern cuisine. He is the owner of several successful restaurants, including Mesa Grill and Bobby's Burger Palace. Chef Flay is also an avid supporter of charitable causes and has worked with organizations such as Share Our Strength and City Harvest to fight hunger and poverty."
+  },
+
+  {
+    "id": 2,
+    "picture": "https://cdn.amomama.com/89de1379422a76fbabcbab26973f8791.jpg?width=2142&height=3000",
+    "name": "Gordon Ramsay",
+    "experience": 30,
+    "num_recipes": 100,
+    "likes": 50000,
+    "bio": "Gordon Ramsay is a British chef and television personality. He is best known for his fiery temper and blunt criticisms on shows such as Hell's Kitchen and MasterChef. Ramsay has been awarded a total of 16 Michelin stars throughout his career, making him one of the most celebrated chefs in the world. In addition to his television work, Ramsay has also written numerous cookbooks and owns several restaurants around the world, including the three-Michelin-starred Restaurant Gordon Ramsay in London."
+  },
+  {
+    "id": 3,
+    "picture": "https://i.postimg.cc/x8N3v6DG/John-Smith.jpg",
+    "name": "John Smith",
+    "experience": 20,
+    "num_recipes": 50,
+    "likes": 2200,
+    "bio": "Chef John Smith is a well-respected chef with over 20 years of experience in the culinary industry. He has worked in some of the most prestigious restaurants in the country and has won several awards for his cooking. Chef Smith is known for his expertise in Italian cuisine, particularly handmade pasta and wood-fired pizza. He is passionate about using the freshest and highest quality ingredients and incorporates seasonal produce into his dishes whenever possible. Chef Smith is also a strong supporter of sustainable farming and frequently collaborates with local farmers and producers to source his ingredients."
+  },
+  {
+    "id": 4,
+    "picture": "https://i.postimg.cc/FsR7BY7q/Samantha-Lee.jpg",
+    "name": "Samantha Lee",
+    "experience": 10,
+    "num_recipes": 25,
+    "likes": 800,
+    "bio": "Chef Samantha Lee is a creative chef with a passion for fusion cuisine. She draws inspiration from her multicultural background and incorporates flavors from different cuisines into her dishes. Chef Lee has worked in various restaurants and has gained a reputation for her innovative approach to cooking. She is committed to using sustainable and ethically sourced ingredients in her dishes and is a strong advocate for responsible food production. Chef Lee has won several awards for her cooking, including the prestigious James Beard Award."
+  },
+  {
+    "id": 5,
+    "picture": "https://i.postimg.cc/J4kW08g0/David-Rodriguez.jpg",
+    "name": "David Rodriguez",
+    "experience": 12,
+    "num_recipes": 20,
+    "likes": 1000,
+    "bio": "Chef David Rodriguez is a renowned chef who has worked in some of the most prestigious restaurants in the country. He is known for his expertise in Mexican cuisine and his passion for creating authentic and flavorful dishes. Chef Rodriguez has a strong commitment to using locally sourced and organic ingredients in his cooking, and he frequently collaborates with local farmers and producers to source his ingredients. He is also a strong advocate for sustainable agriculture and has won several awards for his work in promoting sustainable food production."
+  },
+  {
+    "id": 6,
+    "picture": "https://i.postimg.cc/PfR0Zq8h/Jennifer-Nguyen.jpg",
+    "name": "Jennifer Nguyen",
+    "experience": 8,
+    "num_recipes": 15,
+    "likes": 500,
+    "bio": "Chef Jennifer Nguyen is a young chef with a passion for creating modern and innovative dishes. She draws inspiration from her Vietnamese heritage and incorporates traditional Vietnamese ingredients and flavors into her cooking. Chef Nguyen has worked in various restaurants and has gained a reputation for her creative approach to cooking. She is committed to using sustainable and locally sourced ingredients in her dishes and is a strong advocate for food education and accessibility. Chef Nguyen has been featured in several food publications and has won several awards for her culinary creations."
+  }
+]
